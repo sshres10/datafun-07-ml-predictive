@@ -15,6 +15,8 @@ print(t.hour, t.minute, t.second)  # Outputs: 13 30 45
 # Display its string representation
 print(t)  # Outputs: Time(hour=13, minute=30, second=45)
 
+# This is a great example of how Python’s namedtuple can be used to create a custom data structure. 
+# In this case, a Time object is created that has hour, minute, and second attributes. 
 
         
 
